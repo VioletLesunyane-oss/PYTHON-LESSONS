@@ -9,6 +9,10 @@ import pandas as pd
 
 # MAGIC %md
 # MAGIC 1. CREATING A DICTIONERY
+# MAGIC - A dictionary in Python is a way of storing information using a key and a value also known as KEY-VALUE PAIRS.
+# MAGIC - Dictioneries are created using curly braces {} to tell python that we are creating a dictionery. Basically, curly braces contain the whole dictionery.
+# MAGIC - Inside the curly braces, that's where we put our key-value pairs, e.g, name (Key):Violet(value)
+# MAGIC - The colon (:) connects the key to the value. In simple terms, it tells python that "This key (name)belongs to this value (Violet)".
 
 # COMMAND ----------
 
